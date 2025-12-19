@@ -1,0 +1,32 @@
+estou desenvolvendo aplicações para meu portfolio, utilize as tecnologias 
+como sugestao:
+
+Frontend: React + Zustand/Redux
+Backend: Node + Express/NestJS
+DB: PostgreSQL
+Extra: Docker + JWT + RBAC
+
+Utilize algoritmos simples e enxuto sem codigo desnecessario, adicione comentarios
+e explicações. Codigo objetivo sem variaveis desnecessarias, quero coisas essenciais
+para o funcionamento alem do entendimento do codigo, procure separar funcionalides 
+e utilizar o principio de componentização e codigo limpo, separando as responsabilidades
+
+3. Sistema de Gestão Financeira Simplificado (PF ou MEI)
+
+Contexto: muito valorizado em vagas full stack.
+
+Funcionalidades
+Entradas e saídas
+Categorias financeiras
+Relatórios mensais
+Gráficos interativos
+Exportação CSV/PDF
+
+Diferenciais
+Cálculo automático de saldo
+Filtros avançados por período
+Responsividade real
+Boas práticas de UX
+
+Ponto forte
+Mostra domínio de regra de negócio + visualização de dados.
